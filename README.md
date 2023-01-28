@@ -29,3 +29,7 @@
 * Fabric API: 0.48.0+1.18.2
 * Forge: 1.18.2-40.0.17
 * (Parchment: 1.18.2-2022.03.13)
+
+{% embed url="https://github.com/TrueRou/arch-tutor-code" %}
+本文代码已开源
+{% endembed %}
