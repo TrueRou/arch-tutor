@@ -18,8 +18,8 @@
 * [再次开始](architectury-api/begin.md)
 * [添加物品和功能](architectury-api/item.md)
 * [网络通信和热键](architectury-api/network.md)
-* [在这之后的事情](architectury-api/after.md)
 
 ## 后记 <a href="#good-bye" id="good-bye"></a>
 
+* [在这之后的事情](good-bye/after.md)
 * [鸣谢](good-bye/thank.md)
