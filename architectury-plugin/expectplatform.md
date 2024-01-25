@@ -75,6 +75,10 @@ Architectury提供了IDEA的插件来帮助我们补全ExpectPlatform的实现
 Jetbrins Marketplace
 {% endembed %}
 
-![Code Hint](https://s2.loli.net/2022/04/02/JBgFSlKcz12d7iI.png)
+<div align="left">
+
+<img src="https://s2.loli.net/2022/04/02/JBgFSlKcz12d7iI.png" alt="Code Hint">
+
+</div>
 
 创建ExpectPlatform方法后, 可以自动在正确的位置创建forge和fabric的实现

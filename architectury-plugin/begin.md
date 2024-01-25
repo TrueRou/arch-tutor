@@ -36,7 +36,11 @@ build.gradle中的一些常量现在移动到了**gradle.properties**中
 
 构建完成后, Gradle会自动为我们生成针对两个平台的运行配置
 
-![](https://s2.loli.net/2022/04/01/FxjZpD4ufm3IQNl.png)
+<div align="left">
+
+<img src="https://s2.loli.net/2022/04/01/FxjZpD4ufm3IQNl.png" alt="">
+
+</div>
 
 {% hint style="info" %}
 在Architectury项目创建完成后, 请尽量避免移动项目的位置或者给项目的目录改名. 可能会产生找不到architectury-transformer-agent.jar的问题

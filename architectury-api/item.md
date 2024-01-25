@@ -133,7 +133,7 @@ public InteractionResultHolder<ItemStack> use(@NotNull Level level, @NotNull Pla
 
 ### 监听Tooltip事件
 
-****
+
 
 **ArchtecturyAPI**建立了一套位于Forge和Fabric之上的事件封装层. 在Forge中, 我们创建方法并添加@SubscribeEvent注解来让Forge注册我们的事件. 而在**ArchtecturyAPI**中, 我们使用一种更为"静态"的方式
 

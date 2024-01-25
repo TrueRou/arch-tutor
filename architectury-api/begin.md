@@ -47,6 +47,10 @@
 
 ### 抽象出来的一些事件
 
-![事件](https://s2.loli.net/2022/04/07/DxcKzeACnqY41iN.png)
+<div align="left">
+
+<img src="https://s2.loli.net/2022/04/07/DxcKzeACnqY41iN.png" alt="事件">
+
+</div>
 
 Architectury API提供了一些我们常用的事件, 这里笔者可以根据名称自行理解用途.
